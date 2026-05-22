@@ -6,16 +6,13 @@
 
 <br>
 
+
 # FarmTech Solutions - Fase 3: Colheita de Dados e Insights
 
 ## Grupo 64
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/guilherme-monteiro-tech">Guilherme Bitencourt</a>
-- <a href="https://www.linkedin.com/in/linkedin-integrante-2">[Nome do integrante 2]</a>
-- <a href="https://www.linkedin.com/in/linkedin-integrante-3">[Nome do integrante 3]</a> 
-- <a href="https://www.linkedin.com/in/linkedin-integrante-4">[Nome do integrante 4]</a> 
-- <a href="https://www.linkedin.com/in/linkedin-integrante-5">[Nome do integrante 5]</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
